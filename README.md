@@ -14,7 +14,9 @@ P3
 where 
 "
     P3 -- magic number, only has the types P3(“plain PPM file) or P6(“rare PPM file).
+    
     2 2 -- image dimensions
+    
     255 --max color
 "
 is the header. 
