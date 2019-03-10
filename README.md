@@ -1,16 +1,18 @@
 # Image-Processing-System
 Implement a mini image processing system for PPM images, with the following functions.
 a PPM image has the following format:
+"
 
-P3
+    P3
 
-2 2
+    2 2
 
-255
+    255
 
-0 0 0 100 0 0
-0 0 0 0 255 175
+    0 0 0 100 0 0
+    0 0 0 0 255 175
 
+"
 where 
 "
     
